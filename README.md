@@ -11,3 +11,11 @@ Algoritmo ArrayCopier:
         count <- count + 1
 
         É uma lista arranjo, pois o código aborda coleções com um número finito de elementos com ordem linear e elas possuem índices. Exemplo: O índice 0 acessa o primeiro elemento da coleção.
+
+ALUNOS:
+Caio Felix de Moura | RA: 2401161
+Vinicuius Sousa Santos | RA: 2401090
+Luiz Felipe Araujo dos SAntos | RA: 2400228
+Thiago Malta da Silva | RA: 2400048
+Gabriel Vicente Aiala | RA: 2100253
+Diego Fonseca de Oliveira | RA: 1902388
